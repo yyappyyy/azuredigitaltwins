@@ -1,0 +1,1 @@
+"""Data models for Digital Twin application"""
