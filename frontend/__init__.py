@@ -1,0 +1,1 @@
+"""Frontend components for Digital Twin application"""
